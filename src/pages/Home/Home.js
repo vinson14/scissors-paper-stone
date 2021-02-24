@@ -6,7 +6,6 @@ const Home = () => {
     return (
         <div className="home-container container-fluid">
             <HomeBackground />
-
             <HomeTitle />
         </div>
     );
